@@ -1,0 +1,16 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "wwy",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "mysql": "^2.14.1"
+  }
+}
